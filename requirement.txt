@@ -1,0 +1,18 @@
+# PowerAI requirements
+
+# Web Framework
+Flask[async]
+Flask-CORS
+
+# AI/ML Components
+langchain
+langchain-anthropic
+langchain-google-genai
+langchain-openai
+browser-use==0.1.41
+pydantic
+
+# Testing
+pytest==7.4.3
+selenium==4.16.0
+webdriver-manager==4.0.1
